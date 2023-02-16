@@ -1,1 +1,1 @@
-This is my first class on jenkins.
+print("This is my first class on jenkins")
